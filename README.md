@@ -1,4 +1,4 @@
-# Sprint Prep Projects 🚀
+# Sprint Prep Projects 
 
 This repository contains my Sprint Prep practice projects built using HTML, CSS, and JavaScript.
 
